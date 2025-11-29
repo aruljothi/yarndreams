@@ -25,3 +25,12 @@ git push origin main
 
 4. If you want automatic builds and previews, you can connect this repo to Netlify or Vercel as an alternative.
 
+## Share the site
+
+Use this QR code to share or print on flyers/labels:
+
+![Scan to open Yarn Dreams](share-qr.png)
+
+Direct link: https://aruljothi.github.io/yarndreams/
+
+
